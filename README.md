@@ -1,6 +1,9 @@
 About geoalchemy-odm2
 =====================
 
+> [!WARNING]
+> **geoalchemy-odm2 is no longer maintained upstream.** The upstream repository [ODM2/geoalchemy](https://github.com/ODM2/geoalchemy) has had no commits since 2016-04-22. This feedstock stays available for existing users, but no new versions are expected.
+
 Home: http://geoalchemy.org/
 
 Package license: MIT
